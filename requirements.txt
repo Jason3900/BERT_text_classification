@@ -1,0 +1,4 @@
+cudatoolkit==10.2
+torch==1.5.1
+transformers==3.5.1
+scikit-learn==0.23.2
